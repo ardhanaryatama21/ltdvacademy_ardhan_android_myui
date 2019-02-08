@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">latihanScrollView</string>
+    <string name="textlatihan">Latihan ScrollView</string>
+    <string name="gambar">gambar</string>
+    <string name="text">hy nama saya ardhan saya sangat suka dengan pemrograman android alasan saya belajar android buat cari ilmu selagi masih muda</string>
+    <string name="ig">Official Instagram</string>
+    <string name="git">Official Github</string>
+    <string name="rating">Berikan Rating dan Feedback</string>
+    <string name="beri">Beritahu Teman</string>
+    <string name="kebijakan">Kebijakan Privasi</string>
+    <string name="contact">Contact Person</string>
+    <string name="wa">Whatsapp</string>
+    <string name="telp">080808080808</string>
+</resources>
